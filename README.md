@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image]()
+![image](https://github.com/HunterMcGrew/QR-component/blob/main/assets/images/screenshot.PNG?raw=true)
 
 ### Links
 
