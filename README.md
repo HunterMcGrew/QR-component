@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-component-6-9uqaIQ1V)
 - Live Site URL: [Live Link](https://huntermcgrew.github.io/QR-component/)
 
 ## My process
